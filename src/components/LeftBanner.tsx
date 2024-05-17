@@ -15,7 +15,7 @@ const LeftBanner = () => {
     <FadeIn className="w-full lg:w-3/4 flex flex-col gap-20 lg:items-center text-left">
       <div className="w-full flex flex-col gap-5">
         <br />
-        <h1 className="text-6xl font-bold text-white">
+        <h1 className="text-4xl font-bold text-white">
           IIIT <span className="text-designColor capitalize">MegaHeartz</span>
         </h1>
         <h2 className="text-4xl font-bold text-white">
